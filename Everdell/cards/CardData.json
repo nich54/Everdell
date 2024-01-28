@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Barge Toad",
+        "number": 3
+    },
+    {
+        "name": "Twig Barge",
+        "number": 3
+    },
+    {
+        "name": "Chip Sweep",
+        "number": 3
+    },
+    {
+        "name": "Resin Refinery",
+        "number": 3
+    },
+    {
+        "name": "Woodcarver",
+        "number": 3
+    },           
+    {
+        "name": "Storehouse",
+        "number": 3
+    },
+    {
+        "name": "Ranger",
+        "number": 2
+    },
+    {
+        "name": "Dungeon",
+        "number": 2
+    },
+    {
+        "name": "Peddler",
+        "number": 3
+    },
+    {
+        "name": "Ruins",
+        "number": 3
+    },
+    {
+        "name": "Teacher",
+        "number": 3
+    },
+    {
+        "name": "School",
+        "number": 2
+    },
+    {
+        "name": "Postal Pigeon",
+        "number": 3
+    },
+    {
+        "name": "Post Office",
+        "number": 3
+    },
+    {
+        "name": "Architect",
+        "number": 2
+    },
+    {
+        "name": "Crane",
+        "number": 3
+    },
+    {
+        "name": "Shepherd",
+        "number": 2
+    },
+    {
+        "name": "Chapel",
+        "number": 2
+    },
+    {
+        "name": "Historian",
+        "number": 3
+    },           
+    {
+        "name": "Clock Tower",
+        "number": 3
+    },
+    {
+        "name": "Fool",
+        "number": 2
+    },
+    {
+        "name": "Fairgrounds",
+        "number": 3
+    },
+    {
+        "name": "Wanderer",
+        "number": 3
+    },
+    {
+        "name": "Lookout",
+        "number": 2
+    },
+    {
+        "name": "Undertaker",
+        "number": 2
+    },
+    {
+        "name": "Cemetery",
+        "number": 2
+    },
+    {
+        "name": "Innkepper",
+        "number": 3
+    },
+    {
+        "name": "Inn",
+        "number": 3
+    },
+    {
+        "name": "Miner Mole",
+        "number": 3
+    },
+    {
+        "name": "Mine",
+        "number": 3
+    },
+    {
+        "name": "Shopkeeper",
+        "number": 3
+    },
+    {
+        "name": "General Store",
+        "number": 3
+    },
+    {
+        "name": "Queen",
+        "number": 2
+    },           
+    {
+        "name": "Palace",
+        "number": 2
+    },
+    {
+        "name": "King",
+        "number": 2
+    },
+    {
+        "name": "Castle",
+        "number": 2
+    },
+    {
+        "name": "Judge",
+        "number": 2
+    },
+    {
+        "name": "Courthouse",
+        "number": 2
+    },
+    {
+        "name": "Bard",
+        "number": 2
+    },
+    {
+        "name": "Theater",
+        "number": 2
+    },
+    {
+        "name": "Doctor",
+        "number": 2
+    },
+    {
+        "name": "University",
+        "number": 2
+    },
+    {
+        "name": "Monk L",
+        "number": 2
+    },
+    {
+        "name": "Monastery",
+        "number": 2
+    },
+    {
+        "name": "Farm",
+        "number": 8
+    },
+    {
+        "name": "Harvester/husband",
+        "number": 4
+    },
+    {
+        "name": "Gatherer/Wife",
+        "number": 4
+    },           
+    {
+        "name": "EVERTREE",
+        "number": 3
+    }
+]
