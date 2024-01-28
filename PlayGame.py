@@ -1,6 +1,17 @@
 from EverdellDeck import *
 from DecryptCard import decrypt
 
+def draw_card(shuffledDeck, startingDeck, hidden):
+    if (len(shuffledDeck) == 0):
+        print("Deck empty!")
+    else:
+        cardNum = shuffledDeck.pop()
+        if (hidden):
+            print(cardNum)
+        else:
+            print(decrypt(cardNum, startingDeck))
+        
+
 if (__name__ == "__main__"):
     startingDeck = create_deck()
     shuffle_deck(startingDeck)
@@ -8,12 +19,4 @@ if (__name__ == "__main__"):
 
     while (True):
         x = input("Draw a card? ")
-        if (len(deck) == 0):
-            print("Ruh roh")
-        else:
-            cardNum = deck.pop()
-            if (len(x) > 0):
-                print(decrypt(cardNum, startingDeck), cardNum)
-            else:
-                print(cardNum)
-    
+        draw_card(deck, startingDeck, len(x) == 0)
