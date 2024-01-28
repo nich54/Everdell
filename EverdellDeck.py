@@ -3,10 +3,12 @@ import random
 import time
 
 def current_milli_time():
-    return round(time.time() * 1000)
+    t = round(time.time() * 1000)
+    print("Random seed:", t)
+    return t
 
 def create_deck():
-    file = open("CardData.json")
+    file = open("cards/CardData.json")
     cardData = json.load(file)
 
     deck = []
@@ -17,13 +19,13 @@ def create_deck():
 
     return deck
 
-def encrypt_deck(deck):
-    t = current_milli_time()
-    print("Random seed:", t)
-
-    random.seed(t)
+def shuffle_deck(deck, seed = None):
+    if (seed == None):
+        seed = current_milli_time()
+    random.seed(seed)
     random.shuffle(deck)
 
+def encrypt_deck(deck):
     xDeck = [i for i in range(len(deck))]
     random.shuffle(xDeck)
 
