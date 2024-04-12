@@ -16,7 +16,10 @@
         "points": 1,
         "quote": "I'll be workin' till I croak.",
         "alt_quote": "its a Frog of a day",
-        "combination": "Twig Barge"
+        "combination": "Twig Barge",
+        "png": "barge-toadpng.png",
+        "id": 1
+
     },
     {
         "name": "Twig Barge",
@@ -35,7 +38,10 @@
         "points": 1,
         "quote": "truely the bagiest of twigs",
         "alt_quote": "Modern civilization rests on this card",
-        "combination": "Barge Toad"
+        "combination": "Barge Toad",
+        "png": "twig-bargepng.png",
+        "id": 2
+
 
     },
     {
@@ -55,7 +61,10 @@
         "points": 2,
         "quote": "keep yer nose clean and yer chinmey cleaner",
         "alt_quote": "you could not fathom what I have found in these townsfolks chinmey",
-        "combination": "Resin Refinery"
+        "combination": "Resin Refinery",
+        "png": "chip-sweeppng.png",
+        "id": 3
+
 
     },
     {
@@ -75,7 +84,10 @@
         "points": 1,
         "quote": "Resin glues this city together",
         "alt_quote": "everyone hates the resin refinery",
-        "combination": "Chip Sweep"
+        "combination": "Chip Sweep",
+        "png": "resin-refinerypng.png",
+        "id": 4
+
 
     },
     {
@@ -95,7 +107,11 @@
         "points": 2,
         "quote": "Stand back and witness an artist at work",
         "alt_quote": "Witness me praise the one true god",
-        "combination": "Storehouse"
+        "combination": "Storehouse",
+        "png": "woodcarverpng.png",
+        "id": 5,
+        "open":false
+
 
     },
     {
@@ -115,7 +131,10 @@
         "points": 2,
         "quote": "we got it all",
         "alt_quote": "its all we got",
-        "combination": "Woodcarver"
+        "combination": "Woodcarver",
+        "png": "storehousepng.png",
+        "id": 6
+
 
     },
     {
@@ -135,7 +154,9 @@
         "points": 1,
         "quote": "I know all the sectet trails follow me",
         "alt_quote": "Do not trust me",
-        "combination": "Dungeon"
+        "combination": "Dungeon",
+        "png": "rangerpng.png",
+        "id": 7
 
     },
     {
@@ -155,7 +176,9 @@
         "points": 0,
         "quote": "Wooo im going a crawling",
         "alt_quote": "This is a for profit dungeon",
-        "combination": "Ranger"
+        "combination": "Ranger",
+        "png": "dungeonpng.png",
+        "id": 8
 
     },
     {
@@ -175,7 +198,9 @@
         "points": 1,
         "quote": "Genuine replica",
         "alt_quote": "I went to the ruins for this baby",
-        "combination": "Ruins"
+        "combination": "Ruins",
+        "png": "peddlerpng.png",
+        "id": 9
 
     },
     {
@@ -195,7 +220,9 @@
         "points": 0,
         "quote": "What happened here",
         "alt_quote": "we couldnt stop them",
-        "combination": "Peddler"
+        "combination": "Peddler",
+        "png": "ruinspng.png",
+        "id": 10
 
     },
     {
@@ -215,7 +242,9 @@
         "points": 2,
         "quote": "Gaining wisdom is the wisest thing you can do",
         "alt_quote": "im a teacher and I love teaching",
-        "combination": "School"
+        "combination": "School",
+        "png": "teacherpng.png",
+        "id": 11
 
     },
     {
@@ -235,7 +264,9 @@
         "points": 2,
         "quote": "A place for creatures to learn",
         "alt_quote": "A place for creatures to be indoctrinated",
-        "combination": "Teacher"
+        "combination": "Teacher",
+        "png": "schoolpng.png",
+        "id": 12
 
     },
     {
@@ -255,7 +286,10 @@
         "points": 0,
         "quote": "Sunshine, snow, or the mail gets through",
         "alt_quote": "The mail takes too long and its not my fault",
-        "combination": "Post Office"
+        "combination": "Post Office",
+        "png": "postal-pigeonpng.png",
+        "id": 13,
+        "open":true
         
     },
     {
@@ -275,7 +309,9 @@
         "points": 2,
         "quote": "I love delivering the mail",
         "alt_quote": "The tales of the wars are all that come in",
-        "combination": "Postal Pigeon"
+        "combination": "Postal Pigeon",
+        "png": "post-officepng.png",
+        "id": 14
 
     },
     {
@@ -295,7 +331,9 @@
         "points": 2,
         "quote": "If we build it the will come scurrying",
         "alt_quote": "These farms are not up to code",
-        "combination": "Crane"
+        "combination": "Crane",
+        "png": "architectpng.png",
+        "id": 15
 
     },
     {
@@ -315,7 +353,9 @@
         "points": 1,
         "quote": "The crane is the one true god",
         "alt_quote": "Crane decider of games",
-        "combination": "Architect"
+        "combination": "Architect",
+        "png": "cranepng.png",
+        "id": 16
 
     },
     {
@@ -335,7 +375,9 @@
         "points": 1,
         "quote": "Give and it shall be given unto you",
         "alt_quote": "I love my sheep",
-        "combination": "Chapel"
+        "combination": "Chapel",
+        "png": "shepherdpng.png",
+        "id": 17
 
     },
     {
@@ -355,7 +397,10 @@
         "points": 2,
         "quote": "The bell can be heard everywhere",
         "alt_quote": "the one true god will come for us",
-        "combination": "Shepherd"
+        "combination": "Shepherd",
+        "png": "chapelpng.png",
+        "id": 18,
+        "open": false
 
     },
     {
@@ -375,7 +420,9 @@
         "points": 1,
         "quote": "i will tell you how it really happen",
         "alt_quote": "the horrors of the past are happening again and no one is listening",
-        "combination": "Clock Tower"
+        "combination": "Clock Tower",
+        "png": "historianpng.png",
+        "id": 19
 
     },
     {
@@ -395,7 +442,9 @@
         "points": 0,
         "quote": "Time is everything",
         "alt_quote": "the wheel of time never stops",
-        "combination": "Historian"
+        "combination": "Historian",
+        "png": "clock-towerpng.png",
+        "id": 20
 
     },
     {
@@ -415,7 +464,9 @@
         "points": -2,
         "quote": "Forsooth thou hast not heard of me",
         "alt_quote": "That is awfuly foooolish",
-        "combination": "Fairgrounds"
+        "combination": "Fairgrounds",
+        "png": "foolpng.png",
+        "id": 21
 
     },
     {
@@ -435,7 +486,9 @@
         "points": 3,
         "quote": "Fun for the whole family",
         "alt_quote": "Wit will make an apearence",
-        "combination": "Fool"
+        "combination": "Fool",
+        "png": "fairgroundspng.png",
+        "id": 22
 
     },
     {
@@ -455,7 +508,9 @@
         "points": 1,
         "quote": "Borders are only imaginary",
         "alt_quote": "You wish I was the only thing outside the walls",
-        "combination": "Lookout"
+        "combination": "Lookout",
+        "png": "wandererpng.png",
+        "id": 23
 
     },
     {
@@ -475,7 +530,10 @@
         "points": 2,
         "quote": "I watch for what could be out there",
         "alt_quote": "I watch for the horrors",
-        "combination": "Wanderer"
+        "combination": "Wanderer",
+        "png": "lookoutpng.png",
+        "id": 24,
+        "open":false
 
     },
     {
@@ -495,7 +553,9 @@
         "points": 1,
         "quote": "six inches of dark earth",
         "alt_quote": "sometimes they dont stay dead",
-        "combination": "Cemetery"
+        "combination": "Cemetery",
+        "png": "undertakerpng.png",
+        "id": 25
 
     },
     {
@@ -515,7 +575,10 @@
         "points": 0,
         "quote": "The place where the dead lies",
         "alt_quote": "we all end up here one way or another",
-        "combination": "Undertaker"
+        "combination": "Undertaker",
+        "png": "cemeterypng.png",
+        "id": 26,
+        "open":false
 
     },
     {
@@ -535,7 +598,9 @@
         "points": 1,
         "quote": "Everyone's been fed now off to bed",
         "alt_quote": "I am the only thing protecting these poor inocent creatures from the outsiders",
-        "combination": "Inn"
+        "combination": "Inn",
+        "png": "innkeeperpng.png",
+        "id": 27
 
     },
     {
@@ -555,7 +620,10 @@
         "points": 2,
         "quote": "Its cozy",
         "alt_quote": "I like it its cozy",
-        "combination": "Innkeeper"
+        "combination": "Innkeeper",
+        "png": "innpng.png",
+        "id": 28,
+        "open":true
 
     },
     {
@@ -575,7 +643,9 @@
         "points": 1,
         "quote": "Tunnels can go anywhere",
         "alt_quote": "Dont look at the tunnels",
-        "combination": "Mine"
+        "combination": "Mine",
+        "png": "miner-molepng.png",
+        "id": 29
 
     },
     {
@@ -595,7 +665,9 @@
         "points": 2,
         "quote": "Ive been in the mines all the live long day",
         "alt_quote": "dont talk to me about the cannary",
-        "combination": "Miner Mole"
+        "combination": "Miner Mole",
+        "png": "minepng.png",
+        "id": 30
 
     },
     {
@@ -615,7 +687,9 @@
         "points": 1,
         "quote": "Come again and bring your friends if you have any",
         "alt_quote": "The people need to eat and i will make them",
-        "combination": "General Store"
+        "combination": "General Store",
+        "png": "shopkeeperpng.png",
+        "id": 31
 
     },
     {
@@ -635,7 +709,9 @@
         "points": 1,
         "quote": "We are making mogal moves",
         "alt_quote": "Cash is King",
-        "combination": "Shopkeeper"
+        "combination": "Shopkeeper",
+        "png": "general-storepng.png",
+        "id": 32
 
     },
     {
@@ -655,7 +731,10 @@
         "points": 1,
         "quote": "you're a clever one you'll find a way",
         "alt_quote": "Queen me",
-        "combination": "Palace"
+        "combination": "Palace",
+        "png": "queenpng.png",
+        "id": 33,
+        "open":false
 
     },
     {
@@ -675,7 +754,9 @@
         "points": 4,
         "quote": "The palace is the place to be",
         "alt_quote": "Dont look in the basement",
-        "combination": "Queen"
+        "combination": "Queen",
+        "png": "palacepng.png",
+        "id": 34
 
     },
     {
@@ -695,7 +776,9 @@
         "points": 4,
         "quote": "Peace for every whisker, scale, and tail",
         "alt_quote": "The eye of sauron watches us all",
-        "combination": "Castle"
+        "combination": "Castle",
+        "png": "kingpng.png",
+        "id": 35
 
     },
     {
@@ -715,7 +798,9 @@
         "points": 4,
         "quote": "This is the place to be",
         "alt_quote": "The only defence we have",
-        "combination": "King"
+        "combination": "King",
+        "png": "castlepng.png",
+        "id": 36
 
     },
     {
@@ -735,7 +820,9 @@
         "points": 2,
         "quote": "After much deliveration i will accepth that substitution",
         "alt_quote": "I can be bribed",
-        "combination": "Courthouse"
+        "combination": "Courthouse",
+        "png": "judgepng.png",
+        "id": 37
 
     },
     {
@@ -755,7 +842,9 @@
         "points": 2,
         "quote": "Law is Law",
         "alt_quote": "The letter of the law is a little loosy goosey",
-        "combination": "Judge"
+        "combination": "Judge",
+        "png": "courthousepng.png",
+        "id": 38
 
     },
     {
@@ -775,7 +864,9 @@
         "points": 0,
         "quote": "Listen to my tale of your heroic exploits be they ever few",
         "alt_quote": "All my tales are true",
-        "combination": "Theater"
+        "combination": "Theater",
+        "png": "bardpng.png",
+        "id": 39
 
     },
     {
@@ -795,7 +886,9 @@
         "points": 3,
         "quote": "The nose playing this weekend",
         "alt_quote": "The nose will no longer be playing here",
-        "combination": "Bard"
+        "combination": "Bard",
+        "png": "theaterpng.png",
+        "id": 40
 
     },
     {
@@ -815,7 +908,9 @@
         "points": 4,
         "quote": "hold still this will hurt you more than me",
         "alt_quote": "I eat berries not apples",
-        "combination": "University"
+        "combination": "University",
+        "png": "doctorpng.png",
+        "id": 41
 
     },
     {
@@ -835,7 +930,10 @@
         "points": 3,
         "quote": "Higher education for everyone",
         "alt_quote": "doctor professor hedgehog at your service",
-        "combination": "Doctor"
+        "combination": "Doctor",
+        "png": "universitypng.png",
+        "id": 42,
+        "open":false
 
     },
     {
@@ -855,7 +953,9 @@
         "points": 0,
         "quote": "...",
         "alt_quote": "...............................boo",
-        "combination": "Monastery"
+        "combination": "Monastery",
+        "png": "monkpng.png",
+        "id": 43
 
     },
     {
@@ -875,7 +975,10 @@
         "points": 1,
         "quote": "come here and forget your worries",
         "alt_quote": "we can give you new worries",
-        "combination": "Monk"
+        "combination": "Monk",
+        "png": "monasterypng.png",
+        "id": 44,
+        "open":false
 
     },
     {
@@ -896,7 +999,9 @@
         "quote": "The farm empowers the creatures",
         "alt_quote": "A happy home for a family",
         "combination": "Husband",
-        "combination2": "Wife"
+        "combination2": "Wife",
+        "png": "farmpng.png",
+        "id": 45
 
     },
     {
@@ -916,7 +1021,9 @@
         "points": 2,
         "quote": "Last one for this basket. well maybe this'll fit.",
         "alt_quote": "We are in crippling debt and this berry will have to pay off the mortgage",
-        "combination": "Farm"
+        "combination": "Farm",
+        "png": "husbandpng.png",
+        "id": 46
 
     },
     {
@@ -936,8 +1043,9 @@
         "points": 2,
         "quote": "Nuthins better than mushrooms in greensprouts",
         "alt_quote": "some call me a gatherer some call me a wife",
-        "combination": "Farm"
-
+        "combination": "Farm",
+        "png": "wifepng.png",
+        "id": 47
 
     },
     {
@@ -957,7 +1065,9 @@
         "points": 5,
         "quote": "What a lovely place to live",
         "alt_quote": "I hope nobody finds the unobtainium deposits",
-        "combination": "Any"
+        "combination": "Any",
+        "png": "ever-treepng.png",
+        "id": 48
 
     }
 ]
