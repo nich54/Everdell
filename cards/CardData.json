@@ -15,7 +15,8 @@
         "color": "G",
         "points": 1,
         "quote": "I'll be workin' till I croak.",
-        "alt_quote": "its a Frog of a day"
+        "alt_quote": "its a Frog of a day",
+        "combination": "Twig Barge"
     },
     {
         "name": "Twig Barge",
@@ -33,79 +34,89 @@
         "color": "G",
         "points": 1,
         "quote": "truely the bagiest of twigs",
-        "alt_quote": "Modern civilization rests on this card"
+        "alt_quote": "Modern civilization rests on this card",
+        "combination": "Barge Toad"
+
     },
     {
         "name": "Chip Sweep",
         "number": 3,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 3
         },
         "common": true,
         "critter": true,
-        "text": "",
-        "true_name": "",
+        "text": "activate 1 green in your city",
+        "true_name": "Chip Sweep",
         "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "points": 2,
+        "quote": "keep yer nose clean and yer chinmey cleaner",
+        "alt_quote": "you could not fathom what I have found in these townsfolks chinmey",
+        "combination": "Resin Refinery"
+
     },
     {
         "name": "Resin Refinery",
         "number": 3,
         "cost": {
             "stone": 1,
-            "resin": 0,
-            "wood": 1,
+            "resin": 1,
+            "wood": 0,
             "berries": 0
         },
         "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
+        "critter": false,
+        "text": "gain 1 resin",
+        "true_name": "Resin Refinery",
         "color": "G",
         "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "quote": "Resin glues this city together",
+        "alt_quote": "everyone hates the resin refinery",
+        "combination": "Chip Sweep"
+
     },
     {
         "name": "Woodcarver",
         "number": 3,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 2
         },
         "common": true,
         "critter": true,
-        "text": "",
-        "true_name": "",
+        "text": "You may pay up to 3 to gain 1 point each",
+        "true_name": "Woodcarver",
         "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "points": 2,
+        "quote": "Stand back and witness an artist at work",
+        "alt_quote": "Witness me praise the one true god",
+        "combination": "Storehouse"
+
     },
     {
         "name": "Storehouse",
         "number": 3,
         "cost": {
             "stone": 1,
-            "resin": 0,
+            "resin": 1,
             "wood": 1,
             "berries": 0
         },
         "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
+        "critter": false,
+        "text": "place either 3 wood 2 resin 1 stone or 2 berries on this storehouse take all the resources on this card",
+        "true_name": "Storehouse",
         "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "points": 2,
+        "quote": "we got it all",
+        "alt_quote": "its all we got",
+        "combination": "Woodcarver"
+
     },
     {
         "name": "Ranger",
@@ -123,43 +134,49 @@
         "color": "G",
         "points": 1,
         "quote": "",
-        "alt_quote": ""
+        "alt_quote": "",
+        "combination": ""
+
     },
     {
         "name": "Dungeon",
         "number": 2,
         "cost": {
-            "stone": 1,
-            "resin": 0,
-            "wood": 1,
+            "stone": 2,
+            "resin": 1,
+            "wood": 0,
             "berries": 0
         },
-        "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "common": false,
+        "critter": false,
+        "text": "when playing a construction or critter you may place a critter from your city facedown beneath this dungeon to decrease the cose by 3 any",
+        "true_name": "Dungeon",
+        "color": "B",
+        "points": 0,
+        "quote": "Wooo im going a crawling",
+        "alt_quote": "This is a for profit dungeon",
+        "combination": "Ranger"
+
     },
     {
         "name": "Peddler",
         "number": 3,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 2
         },
         "common": true,
         "critter": true,
-        "text": "",
-        "true_name": "",
+        "text": "you may pay 2 any to gain an equal amount of any",
+        "true_name": "Peddler",
         "color": "G",
         "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "quote": "Genuine replica",
+        "alt_quote": "I went to the ruins for this baby",
+        "combination": "Ruins"
+
     },
     {
         "name": "Ruins",
@@ -177,43 +194,49 @@
         "color": "G",
         "points": 1,
         "quote": "",
-        "alt_quote": ""
+        "alt_quote": "",
+        "combination": ""
+
     },
     {
         "name": "Teacher",
         "number": 3,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 2
         },
         "common": true,
         "critter": true,
-        "text": "",
-        "true_name": "",
+        "text": "Draw 2 cards keep 1 and give the other to the opponent",
+        "true_name": "Teacher",
         "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "points": 2,
+        "quote": "Gaining wisdom is the wisest thing you can do",
+        "alt_quote": "im a teacher and I love teaching",
+        "combination": "School"
+
     },
     {
         "name": "School",
         "number": 2,
         "cost": {
-            "stone": 1,
-            "resin": 0,
-            "wood": 1,
+            "stone": 0,
+            "resin": 2,
+            "wood": 2,
             "berries": 0
         },
-        "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "common": false,
+        "critter": false,
+        "text": "1 point for each common critter",
+        "true_name": "School",
+        "color": "P",
+        "points": 2,
+        "quote": "A place for creatures to learn",
+        "alt_quote": "A place for creatures to be indoctrinated",
+        "combination": "Teacher"
+
     },
     {
         "name": "Postal Pigeon you've got mail",
@@ -231,43 +254,49 @@
         "color": "T",
         "points": 0,
         "quote": "Sunshine, snow, or the mail gets through",
-        "alt_quote": "The mail takes too long and its not my fault"
+        "alt_quote": "The mail takes too long and its not my fault",
+        "combination": "Post Office"
+        
     },
     {
         "name": "Post Office",
         "number": 3,
         "cost": {
-            "stone": 1,
-            "resin": 0,
+            "stone": 0,
+            "resin": 2,
             "wood": 1,
             "berries": 0
         },
         "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "critter": false,
+        "text": "gie an opponent 2 cards then discard any number of cards and draw up to your hand limit",
+        "true_name": "Post Office",
+        "color": "R",
+        "points": 2,
+        "quote": "I love delivering the mail",
+        "alt_quote": "The tales of the wars are all that come in",
+        "combination": "Postal Pigeon"
+
     },
     {
         "name": "Architect",
         "number": 2,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
+            "wood": 0,
             "berries": 0
         },
-        "common": true,
+        "common": false,
         "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "text": "for each unused resin and stone gane 1 point max of 6",
+        "true_name": "Architect",
+        "color": "P",
+        "points": 2,
+        "quote": "If we build it the will come scurrying",
+        "alt_quote": "These farms are not up to code",
+        "combination": "Crane"
+
     },
     {
         "name": "Crane Pog",
@@ -275,17 +304,19 @@
         "cost": {
             "stone": 1,
             "resin": 0,
-            "wood": 1,
+            "wood": 0,
             "berries": 0
         },
-        "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
+        "common": false,
+        "critter": false,
+        "text": "When playing a construction you may discard this crane from you city to play that construction for 3 fewer any",
+        "true_name": "Crane",
+        "color": "B",
         "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "quote": "The crane is the one true god",
+        "alt_quote": "Crane decider of games",
+        "combination": "Architect"
+
     },
     {
         "name": "Shepherd",
@@ -303,43 +334,49 @@
         "color": "G",
         "points": 1,
         "quote": "",
-        "alt_quote": ""
+        "alt_quote": "",
+        "combination": ""
+
     },
     {
         "name": "Chapel",
         "number": 2,
         "cost": {
             "stone": 1,
-            "resin": 0,
-            "wood": 1,
+            "resin": 1,
+            "wood": 2,
             "berries": 0
         },
-        "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "common": false,
+        "critter": false,
+        "text": "place one point on this chapel then draw 2 cards for each point on this chapel",
+        "true_name": "Chapel",
+        "color": "R",
+        "points": 2,
+        "quote": "The bell can be heard everywhere",
+        "alt_quote": "the one true god will come for us",
+        "combination": "Shepherd"
+
     },
     {
         "name": "Historian",
         "number": 3,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 2
         },
-        "common": true,
+        "common": false,
         "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
+        "text": "draw 1 card after you play a critter or construction",
+        "true_name": "Historian",
+        "color": "B",
         "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "quote": "i will tell you how it really happen",
+        "alt_quote": "the horrors of the past are happening again and no one is listening",
+        "combination": "Clock Tower"
+
     },
     {
         "name": "Clock Tower",
@@ -347,143 +384,159 @@
         "cost": {
             "stone": 1,
             "resin": 0,
-            "wood": 1,
+            "wood": 3,
             "berries": 0
         },
-        "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "common": false,
+        "critter": false,
+        "text": "when played place 3 points here. at the beginning of preparing for season you may pay 1 point from here to activate 1 of the basic or forest locations where you have a worker deployed",
+        "true_name": "Clock Tower",
+        "color": "B",
+        "points": 0,
+        "quote": "Time is everything",
+        "alt_quote": "the wheel of time never stops",
+        "combination": "Historian"
+
     },
     {
         "name": "Fool",
         "number": 2,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 3
         },
-        "common": true,
+        "common": false,
         "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "text": "play this fool into an empty spce in an opponents city",
+        "true_name": "Fool",
+        "color": "T",
+        "points": -2,
+        "quote": "Forsooth thou hast not heard of me",
+        "alt_quote": "That is awfuly foooolish",
+        "combination": "Fairgrounds"
+
     },
     {
         "name": "Fairgrounds",
         "number": 3,
         "cost": {
             "stone": 1,
-            "resin": 0,
+            "resin": 2,
             "wood": 1,
             "berries": 0
         },
-        "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
+        "common": false,
+        "critter": false,
+        "text": "draw 2 cards",
+        "true_name": "Fairgrounds",
         "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "points": 3,
+        "quote": "Fun for the whole family",
+        "alt_quote": "Wit will make an apearence",
+        "combination": "Fool"
+
     },
     {
         "name": "Wanderer",
         "number": 3,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 2
         },
         "common": true,
         "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
+        "text": "draw 3 cards",
+        "true_name": "Wanderer",
+        "color": "T",
         "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "quote": "Borders are only imaginary",
+        "alt_quote": "You wish I was the only thing outside the walls",
+        "combination": "Lookout"
+
     },
     {
         "name": "Lookout",
         "number": 2,
         "cost": {
             "stone": 1,
-            "resin": 0,
+            "resin": 1,
             "wood": 1,
             "berries": 0
         },
-        "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "common": false,
+        "critter": false,
+        "text": "copy any basic of forest location",
+        "true_name": "Lookout",
+        "color": "R",
+        "points": 2,
+        "quote": "I watch for what could be out there",
+        "alt_quote": "I watch for the horrors",
+        "combination": "Wanderer"
+
     },
     {
         "name": "Undertaker",
         "number": 2,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 2
         },
-        "common": true,
+        "common": false,
         "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
+        "text": "discar 3 cards from the meadow replenish then draw 1 card from the medow. unlocks second cemetery",
+        "true_name": "Undertaker",
+        "color": "T",
         "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "quote": "six inches of dark earth",
+        "alt_quote": "sometimes they dont stay dead",
+        "combination": "Cemetery"
+
     },
     {
         "name": "Cemetery",
         "number": 2,
         "cost": {
-            "stone": 1,
+            "stone": 2,
             "resin": 0,
-            "wood": 1,
+            "wood": 0,
             "berries": 0
         },
-        "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "common": false,
+        "critter": false,
+        "text": "reveal 4 cards from the deck or the discard pile and play 1 for free discatd the others",
+        "true_name": "Cemetery",
+        "color": "R",
+        "points": 0,
+        "quote": "The place where the dead lies",
+        "alt_quote": "we all end up here one way or another",
+        "combination": "Undertaker"
+
     },
     {
-        "name": "Innkepper",
+        "name": "Innkeeper",
         "number": 3,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 1
         },
-        "common": true,
+        "common": false,
         "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
+        "text": "When playing a critter you may discard this tinnkeeper from you city to decrease the cost by 3 berries",
+        "true_name": "Innkeeper",
+        "color": "B",
         "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "quote": "Everyone's been fed now off to bed",
+        "alt_quote": "I am the only thing protecting these poor inocent creatures from the outsiders",
+        "combination": "Inn"
+
     },
     {
         "name": "Inn go have a drink",
@@ -501,133 +554,149 @@
         "color": "G",
         "points": 1,
         "quote": "",
-        "alt_quote": ""
+        "alt_quote": "",
+        "combination": ""
+
     },
     {
         "name": "Miner Mole",
         "number": 3,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 3
         },
         "common": true,
         "critter": true,
-        "text": "",
-        "true_name": "",
+        "text": "copy 1 green in an opponents city",
+        "true_name": "Miner Mole",
         "color": "G",
         "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "quote": "Tunnels can go anywhere",
+        "alt_quote": "Dont look at the tunnels",
+        "combination": "Mine"
+
     },
     {
         "name": "Mine",
         "number": 3,
         "cost": {
             "stone": 1,
-            "resin": 0,
+            "resin": 1,
             "wood": 1,
             "berries": 0
         },
         "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
+        "critter": false,
+        "text": "gain 1 stone",
+        "true_name": "Mine",
         "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "points": 2,
+        "quote": "Ive been in the mines all the live long day",
+        "alt_quote": "dont talk to me about the cannary",
+        "combination": "Miner Mole"
+
     },
     {
         "name": "Shopkeeper",
         "number": 3,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 2
         },
-        "common": true,
+        "common": false,
         "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
+        "text": "Gain 1 berry after you play a critter",
+        "true_name": "Shopkeeper",
+        "color": "B",
         "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "quote": "Come again and bring your friends if you have any",
+        "alt_quote": "The people need to eat and i will make them",
+        "combination": "General Store"
+
     },
     {
         "name": "General Store",
         "number": 3,
         "cost": {
             "stone": 1,
-            "resin": 0,
-            "wood": 1,
+            "resin": 1,
+            "wood": 0,
             "berries": 0
         },
         "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
+        "critter": false,
+        "text": "gain 1 berry if you have a farm in your city gain 1 additional berry",
+        "true_name": "General Store",
         "color": "G",
         "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "quote": "We are making mogal moves",
+        "alt_quote": "Cash is King",
+        "combination": "Shopkeeper"
+
     },
     {
         "name": "My Queen",
         "number": 2,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 5
         },
-        "common": true,
+        "common": false,
         "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
+        "text": "Play a card up to 3 cost for free",
+        "true_name": "Queen",
+        "color": "R",
         "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "quote": "you're a clever one you'll find a way",
+        "alt_quote": "Queen me",
+        "combination": "Palace"
+
     },
     {
         "name": "Palace",
         "number": 2,
         "cost": {
-            "stone": 1,
-            "resin": 0,
-            "wood": 1,
+            "stone": 3,
+            "resin": 3,
+            "wood": 2,
             "berries": 0
         },
-        "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "common": false,
+        "critter": false,
+        "text": "1 point for each unique construction in your city",
+        "true_name": "Palace",
+        "color": "P",
+        "points": 4,
+        "quote": "The palace is the place to be",
+        "alt_quote": "Dont look in the basement",
+        "combination": "Queen"
+
     },
     {
         "name": "King",
         "number": 2,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 6
         },
-        "common": true,
+        "common": false,
         "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "text": "1 point for each basic event 2 points for each speacial event",
+        "true_name": "King",
+        "color": "P",
+        "points": 4,
+        "quote": "Peace for every whisker, scale, and tail",
+        "alt_quote": "The eye of sauron watches us all",
+        "combination": "Castle"
+
     },
     {
         "name": "Castle",
@@ -645,25 +714,29 @@
         "color": "G",
         "points": 1,
         "quote": "",
-        "alt_quote": ""
+        "alt_quote": "",
+        "combination": ""
+
     },
     {
         "name": "You have been Judged",
         "number": 2,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 3
         },
-        "common": true,
+        "common": false,
         "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "text": "When you play a critter or construction yoy may replace 1 any with 1 any",
+        "true_name": "Judge",
+        "color": "B",
+        "points": 2,
+        "quote": "After much deliveration i will accepth that substitution",
+        "alt_quote": "I can be bribed",
+        "combination": "Courthouse"
+
     },
     {
         "name": "Courthouse",
@@ -681,25 +754,29 @@
         "color": "G",
         "points": 1,
         "quote": "",
-        "alt_quote": ""
+        "alt_quote": "",
+        "combination": ""
+
     },
     {
         "name": "Bard",
         "number": 2,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 3
         },
-        "common": true,
+        "common": false,
         "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "text": "You may dicard up to 5 cards to gain 1 point each",
+        "true_name": "Bard",
+        "color": "T",
+        "points": 0,
+        "quote": "Listen to my tale of your heroic exploits be they ever few",
+        "alt_quote": "All my tales are true",
+        "combination": "Theater"
+
     },
     {
         "name": "Theater",
@@ -717,43 +794,49 @@
         "color": "G",
         "points": 1,
         "quote": "",
-        "alt_quote": ""
+        "alt_quote": "",
+        "combination": ""
+
     },
     {
         "name": "Doctor",
         "number": 2,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 4
         },
-        "common": true,
+        "common": false,
         "critter": true,
-        "text": "",
-        "true_name": "",
+        "text": "you may pay up to 3 berries to gain 1 point each",
+        "true_name": "Doctor",
         "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "points": 4,
+        "quote": "hold still this will hurt you more than me",
+        "alt_quote": "I eat berries not apples",
+        "combination": "University"
+
     },
     {
         "name": "University",
         "number": 2,
         "cost": {
-            "stone": 1,
-            "resin": 0,
-            "wood": 1,
+            "stone": 2,
+            "resin": 1,
+            "wood": 0,
             "berries": 0
         },
-        "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "common": false,
+        "critter": false,
+        "text": "discard a critter or construction from you city. gain resources equal to that cards cost then gain 1 any and 1 point",
+        "true_name": "University",
+        "color": "R",
+        "points": 3,
+        "quote": "Higher education for everyone",
+        "alt_quote": "doctor professor hedgehog at your service",
+        "combination": "Doctor"
+
     },
     {
         "name": "MonkaL",
@@ -771,7 +854,9 @@
         "color": "G",
         "points": 1,
         "quote": "",
-        "alt_quote": ""
+        "alt_quote": "",
+        "combination": ""
+
     },
     {
         "name": "Monastery",
@@ -789,78 +874,90 @@
         "color": "G",
         "points": 1,
         "quote": "",
-        "alt_quote": ""
+        "alt_quote": "",
+        "combination": ""
+
     },
     {
         "name": "Farm",
         "number": 8,
         "cost": {
-            "stone": 1,
-            "resin": 0,
-            "wood": 1,
+            "stone": 0,
+            "resin": 1,
+            "wood": 2,
             "berries": 0
         },
         "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
+        "critter": false,
+        "text": "Gain 1 berry",
+        "true_name": "Farm",
         "color": "G",
         "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "quote": "The farm empowers the creatures",
+        "alt_quote": "A happy home for a family",
+        "combination": "Husband",
+        "combination2": "Wife"
+
     },
     {
         "name": "Harvester/Husband",
         "number": 4,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 3
         },
         "common": true,
         "critter": true,
-        "text": "",
-        "true_name": "",
+        "text": "Gain 1 any if parred with a gatherer/wife and you have at least 1 farm in your city",
+        "true_name": "Husband",
         "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "points": 2,
+        "quote": "Last one for this basket. well maybe this'll fit.",
+        "alt_quote": "We are in crippling debt and this berry will have to pay off the mortgage",
+        "combination": "Farm"
+
     },
     {
         "name": "Gatherer/Wife",
         "number": 4,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 2
         },
         "common": true,
         "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "text": "3 Points if paired with a Harvester/Husband",
+        "true_name": "Wife",
+        "color": "P",
+        "points": 2,
+        "quote": "Nuthins better than mushrooms in greensprouts",
+        "alt_quote": "some call me a gatherer some call me a wife",
+        "combination": "Farm"
+
+
     },
     {
         "name": "EVERTREE",
         "number": 2,
         "cost": {
-            "stone": 1,
-            "resin": 0,
-            "wood": 1,
+            "stone": 3,
+            "resin": 3,
+            "wood": 3,
             "berries": 0
         },
-        "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "common": false,
+        "critter": false,
+        "text": "one point for each purple in city",
+        "true_name": "Ever tree",
+        "color": "P",
+        "points": 5,
+        "quote": "What a lovely place to live",
+        "alt_quote": "I hope nobody finds the unobtainium deposits",
+        "combination": "Any"
+
     }
 ]
