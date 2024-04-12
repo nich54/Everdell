@@ -1,7 +1,7 @@
 [
     {
         "name": "You found the Barge Toad!",
-        "amount_of": 3,
+        "number": 3,
         "cost": {
             "stone": 0,
             "resin": 0,
@@ -12,198 +12,855 @@
         "critter": true,
         "text": "Gain 2 wood for each farm in your city",
         "true_name": "Barge Toad",
-        "color": "Green",
+        "color": "G",
         "points": 1,
         "quote": "I'll be workin' till I croak.",
         "alt_quote": "its a Frog of a day"
     },
     {
         "name": "Twig Barge",
-        "amount_of": 3
-        
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": false,
+        "text": "",
+        "true_name": "Twig Barge",
+        "color": "G",
+        "points": 1,
+        "quote": "I'll be workin' till I croak.",
+        "alt_quote": "its a Frog of a day"
     },
     {
         "name": "Chip Sweep",
-        "amount_of": 3
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Resin Refinery",
-        "amount_of": 3
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Woodcarver",
-        "amount_of": 3
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Storehouse",
-        "amount_of": 3
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Ranger",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Dungeon",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Peddler",
-        "amount_of": 3
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Ruins",
-        "amount_of": 3
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Teacher",
-        "amount_of": 3
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "School",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Postal Pigeon you've got mail",
-        "amount_of": 3
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Post Office",
-        "amount_of": 3
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Architect",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Crane Pog",
-        "amount_of": 3
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Shepherd",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Chapel",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Historian",
-        "amount_of": 3
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Clock Tower",
-        "amount_of": 3
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Fool",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Fairgrounds",
-        "amount_of": 3
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Wanderer",
-        "amount_of": 3
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Lookout",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Undertaker",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Cemetery",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Innkepper",
-        "amount_of": 3
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Inn go have a drink",
-        "amount_of": 3
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Miner Mole",
-        "amount_of": 3
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Mine",
-        "amount_of": 3
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Shopkeeper",
-        "amount_of": 3
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "General Store",
-        "amount_of": 3
+        "number": 3,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "My Queen",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Palace",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "King",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Castle",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "You have been Judged",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Courthouse",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Bard",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Theater",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Doctor",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "University",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "MonkaL",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Monastery",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Farm",
-        "amount_of": 8
+        "number": 8,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Harvester/Husband",
-        "amount_of": 4
+        "number": 4,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "Gatherer/Wife",
-        "amount_of": 4
+        "number": 4,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     },
     {
         "name": "EVERTREE",
-        "amount_of": 2
+        "number": 2,
+        "cost": {
+            "stone": 1,
+            "resin": 0,
+            "wood": 1,
+            "berries": 0
+        },
+        "common": true,
+        "critter": true,
+        "text": "",
+        "true_name": "",
+        "color": "G",
+        "points": 1,
+        "quote": "",
+        "alt_quote": ""
     }
 ]
