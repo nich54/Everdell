@@ -28,12 +28,12 @@
         },
         "common": true,
         "critter": false,
-        "text": "",
+        "text": "Gain 2 wood",
         "true_name": "Twig Barge",
         "color": "G",
         "points": 1,
-        "quote": "I'll be workin' till I croak.",
-        "alt_quote": "its a Frog of a day"
+        "quote": "truely the bagiest of twigs",
+        "alt_quote": "Modern civilization rests on this card"
     },
     {
         "name": "Chip Sweep",
@@ -219,19 +219,19 @@
         "name": "Postal Pigeon you've got mail",
         "number": 3,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 2
         },
         "common": true,
         "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": ""
+        "text": "Reveal 2 cards. you may play one worth up to 3 coins discard the other",
+        "true_name": "Postal Pigeon",
+        "color": "T",
+        "points": 0,
+        "quote": "Sunshine, snow, or the mail gets through",
+        "alt_quote": "The mail takes too long and its not my fault"
     },
     {
         "name": "Post Office",
