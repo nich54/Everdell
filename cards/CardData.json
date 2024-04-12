@@ -122,20 +122,20 @@
         "name": "Ranger",
         "number": 2,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 2
         },
-        "common": true,
+        "common": false,
         "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
+        "text": "move 1 of your deployed workers to a new location unlocks second dungeon slot",
+        "true_name": "Ranger",
+        "color": "T",
         "points": 1,
-        "quote": "",
-        "alt_quote": "",
-        "combination": ""
+        "quote": "I know all the sectet trails follow me",
+        "alt_quote": "Do not trust me",
+        "combination": "Dungeon"
 
     },
     {
@@ -182,20 +182,20 @@
         "name": "Ruins",
         "number": 3,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
+            "wood": 0,
             "berries": 0
         },
         "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": "",
-        "combination": ""
+        "critter": false,
+        "text": "discar a construction from you city. gain resources equal to that constructions cost and draw 2 cards",
+        "true_name": "Ruins",
+        "color": "T",
+        "points": 0,
+        "quote": "What happened here",
+        "alt_quote": "we couldnt stop them",
+        "combination": "Peddler"
 
     },
     {
@@ -322,20 +322,20 @@
         "name": "Shepherd",
         "number": 2,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
-            "berries": 0
+            "wood": 0,
+            "berries": 3
         },
-        "common": true,
+        "common": false,
         "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
+        "text": "gain 3 berries then gain 1 point for each point on your chapel",
+        "true_name": "Shepherd",
+        "color": "T",
         "points": 1,
-        "quote": "",
-        "alt_quote": "",
-        "combination": ""
+        "quote": "Give and it shall be given unto you",
+        "alt_quote": "I love my sheep",
+        "combination": "Chapel"
 
     },
     {
@@ -542,20 +542,20 @@
         "name": "Inn go have a drink",
         "number": 3,
         "cost": {
-            "stone": 1,
-            "resin": 0,
-            "wood": 1,
+            "stone": 0,
+            "resin": 1,
+            "wood": 2,
             "berries": 0
         },
         "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": "",
-        "combination": ""
+        "critter": false,
+        "text": "play a critter or construction from the meadow for 3 fewer",
+        "true_name": "Inn",
+        "color": "R",
+        "points": 2,
+        "quote": "Its cozy",
+        "alt_quote": "I like it its cozy",
+        "combination": "Innkeeper"
 
     },
     {
@@ -702,20 +702,20 @@
         "name": "Castle",
         "number": 2,
         "cost": {
-            "stone": 1,
-            "resin": 0,
-            "wood": 1,
+            "stone": 3,
+            "resin": 3,
+            "wood": 2,
             "berries": 0
         },
-        "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": "",
-        "combination": ""
+        "common": false,
+        "critter": false,
+        "text": "1 point for each common construction in your city",
+        "true_name": "Castle",
+        "color": "P",
+        "points": 4,
+        "quote": "This is the place to be",
+        "alt_quote": "The only defence we have",
+        "combination": "King"
 
     },
     {
@@ -742,20 +742,20 @@
         "name": "Courthouse",
         "number": 2,
         "cost": {
-            "stone": 1,
-            "resin": 0,
+            "stone": 2,
+            "resin": 1,
             "wood": 1,
             "berries": 0
         },
-        "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": "",
-        "combination": ""
+        "common": false,
+        "critter": false,
+        "text": "Gain 1 wood 1 resin or 1 stone after you play a construction",
+        "true_name": "Courthouse",
+        "color": "B",
+        "points": 2,
+        "quote": "Law is Law",
+        "alt_quote": "The letter of the law is a little loosy goosey",
+        "combination": "Judge"
 
     },
     {
@@ -783,19 +783,19 @@
         "number": 2,
         "cost": {
             "stone": 1,
-            "resin": 0,
-            "wood": 1,
+            "resin": 1,
+            "wood": 3,
             "berries": 0
         },
-        "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": "",
-        "combination": ""
+        "common": false,
+        "critter": false,
+        "text": "1 point for each unique critter in your city",
+        "true_name": "Theater",
+        "color": "P",
+        "points": 3,
+        "quote": "The nose playing this weekend",
+        "alt_quote": "The nose will no longer be playing here",
+        "combination": "Bard"
 
     },
     {
@@ -842,20 +842,20 @@
         "name": "MonkaL",
         "number": 2,
         "cost": {
-            "stone": 1,
+            "stone": 0,
             "resin": 0,
-            "wood": 1,
+            "wood": 0,
             "berries": 0
         },
-        "common": true,
+        "common": false,
         "critter": true,
-        "text": "",
-        "true_name": "",
+        "text": "you may give up to 2 berries to an opponent to gain 2 points each",
+        "true_name": "Monk",
         "color": "G",
-        "points": 1,
-        "quote": "",
-        "alt_quote": "",
-        "combination": ""
+        "points": 0,
+        "quote": "...",
+        "alt_quote": "...............................boo",
+        "combination": "Monastery"
 
     },
     {
@@ -863,19 +863,19 @@
         "number": 2,
         "cost": {
             "stone": 1,
-            "resin": 0,
+            "resin": 1,
             "wood": 1,
             "berries": 0
         },
-        "common": true,
-        "critter": true,
-        "text": "",
-        "true_name": "",
-        "color": "G",
+        "common": false,
+        "critter": false,
+        "text": "give 2 any to an opponent and gain 4 points",
+        "true_name": "Monastary",
+        "color": "R",
         "points": 1,
-        "quote": "",
-        "alt_quote": "",
-        "combination": ""
+        "quote": "come here and forget your worries",
+        "alt_quote": "we can give you new worries",
+        "combination": "Monk"
 
     },
     {
