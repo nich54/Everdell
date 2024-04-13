@@ -74,7 +74,7 @@
             "cards": 0,
             "points": 0,
             "discard": 0,
-            "any": 0,
+            "any": 0
         },
         "try": "1 stone"
 
@@ -116,7 +116,7 @@
             "cards": 3,
             "points": 0,
             "discard": 0,
-            "any": 0,
+            "any": 0
         },
         "try": "3 cards 1 stone"
 
@@ -130,7 +130,7 @@
             "cards": 0,
             "points": 0,
             "discard": 0,
-            "any": 0,
+            "any": 0
         },
         "try": "3 berries"
 
@@ -210,7 +210,7 @@
             "cards": 0,
             "points": 0,
             "discard": 0,
-            "any": 0,
+            "any": 0
         },
         "try": "play a card worth up to 3 points"
 
@@ -223,7 +223,7 @@
             "cards": 0,
             "points": 0,
             "discard": 0,
-            "any": 0,
+            "any": 0
         },
         "try": "place either 3 wood 2 resin 1 stone or 2 berries on this storehouse from the supply. take all the resources on this card"
 
@@ -236,7 +236,7 @@
             "cards": 0,
             "points": 0,
             "discard": 0,
-            "any": 0,
+            "any": 0
         },
         "try": "place 1 point on this chapel then draw 2 cards for each point on this chapel"
 
@@ -249,7 +249,7 @@
             "cards": 0,
             "points": 0,
             "discard": 0,
-            "any": 0,
+            "any": 0
         },
         "try": "give opponent 2 cards then discard any number of cards and draw up to hand limit"
 
@@ -262,7 +262,7 @@
             "cards": 0,
             "points": 0,
             "discard": 0,
-            "any": 0,
+            "any": 0
         },
         "try": "reveal 4 cards fron the deck or discard pile and play 1 for free. discard the others"
 
@@ -316,7 +316,7 @@
             "cards": 0,
             "points": 0,
             "discard": 0,
-            "any": 0,
+            "any": 0
         },
         "try": "dicar uo to 3 cards and gain 1 any for each card"
 
@@ -330,7 +330,7 @@
             "cards": 1,
             "points": 0,
             "discard": 0,
-            "any": 0,
+            "any": 0
         },
         "try": "copy 1 basic location and draw a card"
 
@@ -344,7 +344,7 @@
             "cards": 0,
             "points": 0,
             "discard": 0,
-            "any": 0,
+            "any": 0
         },
         "try": "discard any then draw 2 for every card discarded"
 
@@ -376,5 +376,5 @@
         },
         "try": "give 2 any to an oppenent and gain 4 points"
 
-    },
+    }
 ]
