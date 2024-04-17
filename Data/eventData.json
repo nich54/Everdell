@@ -1,100 +1,150 @@
 [
     {
-        "event": "ministerin to miscreants",
-        "text_e": "3 points for each prisoner in your dungeon",
-        "id1" : "41",
-        "id2" : "13"
+        "id": 0,
+        "event": "4 Green",
+        "points": 3
     },
     {
+        "id": 1,
+        "event": "3 Blue",
+        "points": 3
+    },
+    {
+        "id": 2,
+        "event": "3 Red",
+        "points": 3
+    },
+    {
+        "id": 3,
+        "event": "3 Tan",
+        "points": 3
+    },
+    {
+        "id": 4,
+        "event": "Ministering to miscreants",
+        "text_e": "3 points for each prisoner in your dungeon",
+        "card1": 41,
+        "card2": 13,
+        "points": 0
+    },
+    {
+        "id": 5,
         "event": "Capture of the acorn theives",
         "text_e": "when acieved place up to 2 critters from your city beneath this event. 3 points for each critter beneath this event",
-        "id1" : "38",
-        "id2" : "7"
+        "card1": 38,
+        "card2": 7,
+        "points": 0
     },
     {
-        "event": "an evening of fireworks",
+        "id": 6,
+        "event": "An evening of fireworks",
         "text_e": "when achieved you may place up to 3 wood here 2 points for each wood on this event",
-        "id1" : "24",
-        "id2" : "29"
+        "card1": 24,
+        "card2": 29,
+        "points": 0
     },
     {
+        "id": 7,
         "event": "Remembering the fallen",
         "text_e": "3 points for each buried worker in your cemetary",
-        "id1" : "26",
-        "id2" : "17"
+        "card1": 26,
+        "card2": 17,
+        "points": 0
     },
     {
+        "id": 8,
         "event": "Pristine chapel ceiling",
         "text_e": "when achieved draw 1 card 1 any for each point on your chapel. 2 points for each point on your chapel",
-        "id1" : "5",
-        "id2" : "17"
+        "card1": 5,
+        "card2": 17,
+        "points": 0
     },
     {
+        "id": 9,
         "event": "performer in residence",
         "text_e": "When achieved you may place up to 3 berries here. 2 points for each berry on this event",
-        "id1" : "28",
-        "id2" : "39"
+        "card1": 28,
+        "card2": 39,
+        "points": 0
     },
     {
+        "id": 10,
         "event": "ancient scorlls discovered",
         "text_e": "when achieved reveal 5 cards you may draw any or place any beneath this event. 1 point for each card beneath this event",
-        "id1" : "19",
-        "id2" : "10"
+        "card1": 19,
+        "card2": 0,
+        "points": 0
     },
     {
+        "id": 11,
         "event": "under new management",
         "text_e": "when achieved you may place up to 3 any here for each berry or wood 1 point for each resin and stone 2 points",
-        "id1" : "9",
-        "id2" : "32"
+        "card1": 9,
+        "card2": 32,
+        "points": 0
     },
     {
+        "id": 12,
         "event": "a well run city",
         "text_e": "when achieved bring back one of your deployed workers",
-        "id1" : "3",
-        "id2" : "19"
+        "card1": 3,
+        "card2": 19,
+        "points": 0
     },
     {
+        "id": 13,
         "event": "Tax relief",
         "text_e": "activate production",
-        "id1" : "37",
-        "id2" : "33"
+        "card1": 37,
+        "card2": 33,
+        "points": 0
     },
     {
+        "id": 14,
         "event": "a brilliant marketing plan",
         "text_e": "when achieved you may give oppenents up to a total of 3 any. 2 points for each donation",
-        "id1" : "31",
-        "id2" : "14"
+        "card1": 31,
+        "card2": 14,
+        "points": 0
     },
     {
+        "id": 15,
         "event": "Croak wart cure",
         "text_e": "when achieved pay 2 berries and discard 2 cards from your city. 6 points",
-        "id1" : "25",
-        "id2" : "1"
+        "card1": 25,
+        "card2": 1,
+        "points": 0
     },
     {
+        "id": 16,
         "event": "Graduation of scholars",
         "text_e": "Whenachieved you may place up to 3 critters from you hand beneath this event",
-        "id1" : "11",
-        "id2" : "41"
+        "card1": 11,
+        "card2": 41,
+        "points": 0
     },
     {
+        "id": 17,
         "event": "path of the pilgrims",
         "text_e": "3 points for each worker in your monastery",
-        "id1" : "44",
-        "id2" : "23"
+        "card1": 44,
+        "card2": 23,
+        "points": 0
     },
     {
+        "id": 18,
         "event": "Flying doctor service",
         "text_e": "3 points for each harvester gatherer pair in the city",
-        "id1" : "41",
-        "id2" : "13"
+        "card1": 41,
+        "card2": 13,
+        "points": 0
     },
     {
+        "id": 19,
         "event": "The everdell games",
         "text_e": "9 points",
-        "id1" : "",
-        "id2" : ""
+        "card1": -1,
+        "card2": -1,
+        "points": 0
     }
-
-    
 ]
