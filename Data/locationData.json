@@ -1,10 +1,11 @@
 [
     {
-        "id": 1,
+        "id": 0,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 3,
+            "berries": 0,
             "cards": 0,
             "points": 0,
             "discard": 0,
@@ -15,11 +16,12 @@
         "large": false
     },
     {
-        "id": 2,
+        "id": 1,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 2,
+            "berries": 0,
             "cards": 1,
             "points": 0,
             "discard": 0,
@@ -30,11 +32,12 @@
         "large": true
     },
     {
-        "id": 3,
+        "id": 2,
         "items_added": {
             "stone": 0,
             "resin": 2,
             "wood": 0,
+            "berries": 0,
             "cards": 0,
             "points": 0,
             "discard": 0,
@@ -45,11 +48,12 @@
         "large": false
     },
     {
-        "id": 4,
+        "id": 3,
         "items_added": {
             "stone": 0,
             "resin": 1,
             "wood": 0,
+            "berries": 0,
             "cards": 1,
             "points": 0,
             "discard": 0,
@@ -60,11 +64,12 @@
         "large": true
     },
     {
-        "id": 5,
+        "id": 4,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 2,
             "points": 1,
             "discard": 0,
@@ -75,11 +80,12 @@
         "large": true
     },
     {
-        "id": 6,
+        "id": 5,
         "items_added": {
             "stone": 1,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 0,
             "points": 0,
             "discard": 0,
@@ -90,12 +96,12 @@
         "large": false
     },
     {
-        "id": 7,
+        "id": 6,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
-            "berry": 1,
+            "berries": 1,
             "cards": 1,
             "points": 0,
             "discard": 0,
@@ -106,12 +112,12 @@
         "large": false
     },
     {
-        "id": 8,
+        "id": 7,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
-            "berry": 1,
+            "berries": 1,
             "cards": 0,
             "points": 0,
             "discard": 0,
@@ -122,7 +128,7 @@
         "large": true
     },
     {
-        "id": 9,
+        "id": 8,
         "items_added": {
             "stone": 1,
             "resin": 0,
@@ -136,12 +142,12 @@
         "type": "forest"
     },
     {
-        "id": 10,
+        "id": 9,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
-            "berry": 3,
+            "berries": 3,
             "cards": 0,
             "points": 0,
             "discard": 0,
@@ -151,11 +157,12 @@
         "type": "forest"
     },
     {
-        "id": 11,
+        "id": 10,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 0,
             "points": 0,
             "discard": 0,
@@ -165,11 +172,12 @@
         "type": "forest"
     },
     {
-        "id": 12,
+        "id": 11,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 2,
             "points": 0,
             "discard": 0,
@@ -179,13 +187,13 @@
         "type": "forest"
     },
     {
-        "id": 13,
+        "id": 12,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 1,
-            "berry": 2,
             "points": 0,
             "discard": 0,
             "any": 0
@@ -194,11 +202,12 @@
         "type": "forest"
     },
     {
-        "id": 14,
+        "id": 13,
         "items_added": {
             "stone": 0,
             "resin": 2,
             "wood": 1,
+            "berries": 0,
             "cards": 0,
             "points": 0,
             "discard": 0,
@@ -208,12 +217,12 @@
         "type": "forest"
     },
     {
-        "id": 15,
+        "id": 14,
         "items_added": {
             "stone": 0,
             "resin": 1,
             "wood": 1,
-            "berry": 1,
+            "berries": 1,
             "cards": 0,
             "points": 0,
             "discard": 0,
@@ -223,11 +232,12 @@
         "type": "forest"
     },
     {
-        "id": 16,
+        "id": 15,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 0,
             "points": 0,
             "discard": 0,
@@ -241,11 +251,12 @@
         "permanent": false
     },
     {
-        "id": 17,
+        "id": 16,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 0,
             "points": 0,
             "discard": 0,
@@ -259,11 +270,12 @@
         "permanent": false
     },
     {
-        "id": 18,
+        "id": 17,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 0,
             "points": 0,
             "discard": 0,
@@ -277,11 +289,12 @@
         "permanent": false
     },
     {
-        "id": 19,
+        "id": 18,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 0,
             "points": 0,
             "discard": 0,
@@ -295,11 +308,12 @@
         "permanent": false
     },
     {
-        "id": 20,
+        "id": 19,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 0,
             "points": 0,
             "discard": 0,
@@ -313,11 +327,12 @@
         "permanent": true
     },
     {
-        "id": 21,
+        "id": 20,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 0,
             "points": 0,
             "discard": 0,
@@ -331,11 +346,12 @@
         "permanent": false
     },
     {
-        "id": 22,
+        "id": 21,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 0,
             "points": 1,
             "discard": 0,
@@ -349,11 +365,12 @@
         "permanent": false
     },
     {
-        "id": 23,
+        "id": 22,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 0,
             "points": 0,
             "discard": 0,
@@ -367,11 +384,12 @@
         "permanent": false
     },
     {
-        "id": 24,
+        "id": 23,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 0,
             "points": 0,
             "discard": 0,
@@ -381,11 +399,12 @@
         "type": "forest"
     },
     {
-        "id": 25,
+        "id": 24,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 1,
             "points": 0,
             "discard": 0,
@@ -395,11 +414,12 @@
         "type": "forest"
     },
     {
-        "id": 26,
+        "id": 25,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 0,
             "points": 0,
             "discard": 0,
@@ -410,11 +430,12 @@
         "large": true
     },
     {
-        "id": 27,
+        "id": 26,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 0,
             "points": 0,
             "discard": 0,
@@ -424,11 +445,12 @@
         "type": "forest"
     },
     {
-        "id": 28,
+        "id": 27,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 0,
             "points": 0,
             "discard": 0,
@@ -442,11 +464,12 @@
         "permanent": true
     },
     {
-        "id": 29,
+        "id": 28,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 0,
             "points": 5,
             "discard": 0,
@@ -457,11 +480,12 @@
         "large": false
     },
     {
-        "id": 30,
+        "id": 29,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 0,
             "points": 4,
             "discard": 0,
@@ -472,11 +496,12 @@
         "large": false
     },
     {
-        "id": 31,
+        "id": 30,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 0,
             "points": 3,
             "discard": 0,
@@ -487,11 +512,12 @@
         "large": false
     },
     {
-        "id": 32,
+        "id": 31,
         "items_added": {
             "stone": 0,
             "resin": 0,
             "wood": 0,
+            "berries": 0,
             "cards": 0,
             "points": 5,
             "discard": 0,
