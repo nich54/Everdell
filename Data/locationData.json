@@ -285,7 +285,7 @@
         "type": "card",
         "cardId": 18,
         "open": false,
-        "spots": 2,
+        "spots": 1,
         "permanent": false
     },
     {
@@ -523,60 +523,8 @@
             "discard": 0,
             "any": 0
         },
-        "try": "give 2 any to an oppenent and gain 4 points"
-
-    },
-    {
-        "id": 28,
-        "items_added": {
-            "stone": 0,
-            "resin": 0,
-            "wood": 0,
-            "cards": 0,
-            "points": 0,
-            "discard": 0,
-            "any": 0
-        },
-        "try": "give 2 any to an oppenent and gain 4 points"
-
-    },    {
-        "id": 28,
-        "items_added": {
-            "stone": 0,
-            "resin": 0,
-            "wood": 0,
-            "cards": 0,
-            "points": 0,
-            "discard": 0,
-            "any": 0
-        },
-        "try": "give 2 any to an oppenent and gain 4 points"
-
-    },    {
-        "id": 28,
-        "items_added": {
-            "stone": 0,
-            "resin": 0,
-            "wood": 0,
-            "cards": 0,
-            "points": 0,
-            "discard": 0,
-            "any": 0
-        },
-        "try": "give 2 any to an oppenent and gain 4 points"
-
-    },    {
-        "id": 28,
-        "items_added": {
-            "stone": 0,
-            "resin": 0,
-            "wood": 0,
-            "cards": 0,
-            "points": 0,
-            "discard": 0,
-            "any": 0
-        },
-        "try": "give 2 any to an oppenent and gain 4 points"
-
+        "try": "Journey 2",
+        "type": "basic",
+        "large": true
     }
 ]

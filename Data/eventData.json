@@ -83,7 +83,7 @@
         "type": "special",
         "text_e": "when achieved reveal 5 cards you may draw any or place any beneath this event. 1 point for each card beneath this event",
         "card1": 19,
-        "card2": 0,
+        "card2": 10,
         "points": 0
     },
     {
