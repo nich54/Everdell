@@ -19,7 +19,6 @@
         "combination": "Twig Barge",
         "png": "barge-toad.jpeg",
         "id": 1
-
     },
     {
         "name": "Twig Barge",
@@ -41,8 +40,6 @@
         "combination": "Barge Toad",
         "png": "twig-barge.jpeg",
         "id": 2
-
-
     },
     {
         "name": "Chip Sweep",
@@ -64,8 +61,6 @@
         "combination": "Resin Refinery",
         "png": "chip-sweep.jpeg",
         "id": 3
-
-
     },
     {
         "name": "Resin Refinery",
@@ -87,8 +82,6 @@
         "combination": "Chip Sweep",
         "png": "resin-refinery.jpeg",
         "id": 4
-
-
     },
     {
         "name": "Woodcarver",
@@ -110,9 +103,7 @@
         "combination": "Storehouse",
         "png": "woodcarver.jpeg",
         "id": 5,
-        "open":false
-
-
+        "open": false
     },
     {
         "name": "Storehouse",
@@ -128,14 +119,13 @@
         "text": "place either 3 wood 2 resin 1 stone or 2 berries on this storehouse take all the resources on this card",
         "true_name": "Storehouse",
         "color": "G",
+        "location_id": 16,
         "points": 2,
         "quote": "we got it all",
         "alt_quote": "its all we got",
         "combination": "Woodcarver",
         "png": "storehouse.jpeg",
         "id": 6
-
-
     },
     {
         "name": "Ranger",
@@ -157,7 +147,6 @@
         "combination": "Dungeon",
         "png": "ranger.jpeg",
         "id": 7
-
     },
     {
         "name": "Dungeon",
@@ -179,7 +168,6 @@
         "combination": "Ranger",
         "png": "dungeon.jpeg",
         "id": 8
-
     },
     {
         "name": "Peddler",
@@ -201,7 +189,6 @@
         "combination": "Ruins",
         "png": "peddler.jpeg",
         "id": 9
-
     },
     {
         "name": "Ruins",
@@ -223,7 +210,6 @@
         "combination": "Peddler",
         "png": "ruins.jpeg",
         "id": 10
-
     },
     {
         "name": "Teacher",
@@ -245,7 +231,6 @@
         "combination": "School",
         "png": "teacher.jpeg",
         "id": 11
-
     },
     {
         "name": "School",
@@ -267,7 +252,6 @@
         "combination": "Teacher",
         "png": "school.jpeg",
         "id": 12
-
     },
     {
         "name": "Postal Pigeon you've got mail",
@@ -289,8 +273,7 @@
         "combination": "Post Office",
         "png": "postal-pigeon.jpeg",
         "id": 13,
-        "open":true
-        
+        "open": true
     },
     {
         "name": "Post Office",
@@ -306,13 +289,13 @@
         "text": "gie an opponent 2 cards then discard any number of cards and draw up to your hand limit",
         "true_name": "Post Office",
         "color": "R",
+        "location_id": 18,
         "points": 2,
         "quote": "I love delivering the mail",
         "alt_quote": "The tales of the wars are all that come in",
         "combination": "Postal Pigeon",
         "png": "post-office.jpeg",
         "id": 14
-
     },
     {
         "name": "Architect",
@@ -334,7 +317,6 @@
         "combination": "Crane",
         "png": "architect.jpeg",
         "id": 15
-
     },
     {
         "name": "Crane Pog",
@@ -356,7 +338,6 @@
         "combination": "Architect",
         "png": "crane.jpeg",
         "id": 16
-
     },
     {
         "name": "Shepherd",
@@ -378,7 +359,6 @@
         "combination": "Chapel",
         "png": "shepherd.jpeg",
         "id": 17
-
     },
     {
         "name": "Chapel",
@@ -394,14 +374,13 @@
         "text": "place one point on this chapel then draw 2 cards for each point on this chapel",
         "true_name": "Chapel",
         "color": "R",
+        "location_id": 17,
         "points": 2,
         "quote": "The bell can be heard everywhere",
         "alt_quote": "the one true god will come for us",
         "combination": "Shepherd",
         "png": "chapel.jpeg",
-        "id": 18,
-        "open": false
-
+        "id": 18
     },
     {
         "name": "Historian",
@@ -423,7 +402,6 @@
         "combination": "Clock Tower",
         "png": "historian.jpeg",
         "id": 19
-
     },
     {
         "name": "Clock Tower",
@@ -445,7 +423,6 @@
         "combination": "Historian",
         "png": "clock-tower.jpeg",
         "id": 20
-
     },
     {
         "name": "Fool",
@@ -467,7 +444,6 @@
         "combination": "Fairgrounds",
         "png": "fool.jpeg",
         "id": 21
-
     },
     {
         "name": "Fairgrounds",
@@ -489,7 +465,6 @@
         "combination": "Fool",
         "png": "fairgrounds.jpeg",
         "id": 22
-
     },
     {
         "name": "Wanderer",
@@ -511,7 +486,6 @@
         "combination": "Lookout",
         "png": "wanderer.jpeg",
         "id": 23
-
     },
     {
         "name": "Lookout",
@@ -527,14 +501,14 @@
         "text": "copy any basic of forest location",
         "true_name": "Lookout",
         "color": "R",
+        "location_id": 20,
         "points": 2,
         "quote": "I watch for what could be out there",
         "alt_quote": "I watch for the horrors",
         "combination": "Wanderer",
         "png": "lookout.jpeg",
         "id": 24,
-        "open":false
-
+        "open": false
     },
     {
         "name": "Undertaker",
@@ -556,7 +530,6 @@
         "combination": "Cemetery",
         "png": "undertaker.jpeg",
         "id": 25
-
     },
     {
         "name": "Cemetery",
@@ -572,14 +545,13 @@
         "text": "reveal 4 cards from the deck or the discard pile and play 1 for free discatd the others",
         "true_name": "Cemetery",
         "color": "R",
+        "location_id": 19,
         "points": 0,
         "quote": "The place where the dead lies",
         "alt_quote": "we all end up here one way or another",
         "combination": "Undertaker",
         "png": "cemetery.jpeg",
-        "id": 26,
-        "open":false
-
+        "id": 26
     },
     {
         "name": "Innkeeper",
@@ -601,7 +573,6 @@
         "combination": "Inn",
         "png": "innkeeper.jpeg",
         "id": 27
-
     },
     {
         "name": "Inn go have a drink",
@@ -617,14 +588,13 @@
         "text": "play a critter or construction from the meadow for 3 fewer",
         "true_name": "Inn",
         "color": "R",
+        "location_id": 22,
         "points": 2,
         "quote": "Its cozy",
         "alt_quote": "I like it its cozy",
         "combination": "Innkeeper",
         "png": "inn.jpeg",
-        "id": 28,
-        "open":true
-
+        "id": 28
     },
     {
         "name": "Miner Mole",
@@ -646,7 +616,6 @@
         "combination": "Mine",
         "png": "miner-mole.jpeg",
         "id": 29
-
     },
     {
         "name": "Mine",
@@ -668,7 +637,6 @@
         "combination": "Miner Mole",
         "png": "mine.jpeg",
         "id": 30
-
     },
     {
         "name": "Shopkeeper",
@@ -690,7 +658,6 @@
         "combination": "General Store",
         "png": "shopkeeper.jpeg",
         "id": 31
-
     },
     {
         "name": "General Store",
@@ -712,7 +679,6 @@
         "combination": "Shopkeeper",
         "png": "general-store.jpeg",
         "id": 32
-
     },
     {
         "name": "My Queen",
@@ -728,14 +694,13 @@
         "text": "Play a card up to 3 cost for free",
         "true_name": "Queen",
         "color": "R",
+        "location_id": 15,
         "points": 1,
         "quote": "you're a clever one you'll find a way",
         "alt_quote": "Queen me",
         "combination": "Palace",
         "png": "queen.jpeg",
-        "id": 33,
-        "open":false
-
+        "id": 33
     },
     {
         "name": "Palace",
@@ -757,7 +722,6 @@
         "combination": "Queen",
         "png": "palace.jpeg",
         "id": 34
-
     },
     {
         "name": "King",
@@ -779,7 +743,6 @@
         "combination": "Castle",
         "png": "king.jpeg",
         "id": 35
-
     },
     {
         "name": "Castle",
@@ -801,7 +764,6 @@
         "combination": "King",
         "png": "castle.jpeg",
         "id": 36
-
     },
     {
         "name": "You have been Judged",
@@ -823,7 +785,6 @@
         "combination": "Courthouse",
         "png": "judge.jpeg",
         "id": 37
-
     },
     {
         "name": "Courthouse",
@@ -845,7 +806,6 @@
         "combination": "Judge",
         "png": "courthouse.jpeg",
         "id": 38
-
     },
     {
         "name": "Bard",
@@ -867,7 +827,6 @@
         "combination": "Theater",
         "png": "bard.jpeg",
         "id": 39
-
     },
     {
         "name": "Theater",
@@ -889,7 +848,6 @@
         "combination": "Bard",
         "png": "theater.jpeg",
         "id": 40
-
     },
     {
         "name": "Doctor",
@@ -911,7 +869,6 @@
         "combination": "University",
         "png": "doctor.jpeg",
         "id": 41
-
     },
     {
         "name": "University",
@@ -927,14 +884,14 @@
         "text": "discard a critter or construction from you city. gain resources equal to that cards cost then gain 1 any and 1 point",
         "true_name": "University",
         "color": "R",
+        "location_id": 21,
         "points": 3,
         "quote": "Higher education for everyone",
         "alt_quote": "doctor professor hedgehog at your service",
         "combination": "Doctor",
         "png": "university.jpeg",
         "id": 42,
-        "open":false
-
+        "open": false
     },
     {
         "name": "MonkaL",
@@ -956,7 +913,6 @@
         "combination": "Monastery",
         "png": "monk.jpeg",
         "id": 43
-
     },
     {
         "name": "Monastery",
@@ -972,14 +928,13 @@
         "text": "give 2 any to an opponent and gain 4 points",
         "true_name": "Monastary",
         "color": "R",
+        "location_id": 27,
         "points": 1,
         "quote": "come here and forget your worries",
         "alt_quote": "we can give you new worries",
         "combination": "Monk",
         "png": "monastery.jpeg",
-        "id": 44,
-        "open":false
-
+        "id": 44
     },
     {
         "name": "Farm",
@@ -1002,7 +957,6 @@
         "combination2": "Wife",
         "png": "farm.jpeg",
         "id": 45
-
     },
     {
         "name": "Harvester/Husband",
@@ -1024,7 +978,6 @@
         "combination": "Farm",
         "png": "husband.jpeg",
         "id": 46
-
     },
     {
         "name": "Gatherer/Wife",
@@ -1046,7 +999,6 @@
         "combination": "Farm",
         "png": "wife.jpeg",
         "id": 47
-
     },
     {
         "name": "EVERTREE",
@@ -1068,6 +1020,5 @@
         "combination": "Any",
         "png": "ever-tree.jpeg",
         "id": 48
-
     }
 ]
