@@ -362,17 +362,14 @@
     },
     {
         "id": 31,
-        "items_added": {
-            "stone": 0,
-            "resin": 0,
-            "wood": 0,
-            "berries": 0,
-            "cards": 0,
-            "points": 5,
-            "discard": 0,
-            "any": 0
-        },
-        "try": "Journey 2",
+        "name": "Journey 2",
+        "type": "basic",
+        "large": true
+    },
+    {
+        "id": 32,
+        "name": "Haven",
+        "try": "Discard any, gain 1 any per 2",
         "type": "basic",
         "large": true
     }
