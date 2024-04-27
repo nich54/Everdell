@@ -18,7 +18,8 @@
         "alt_quote": "its a Frog of a day",
         "combination": "Twig Barge",
         "png": "barge-toad.jpeg",
-        "id": 1
+        "id": 1,
+        "emoji": "🐸"
     },
     {
         "name": "Twig Barge",
@@ -39,7 +40,8 @@
         "alt_quote": "Modern civilization rests on this card",
         "combination": "Barge Toad",
         "png": "twig-barge.jpeg",
-        "id": 2
+        "id": 2,
+        "emoji": "🪵"
     },
     {
         "name": "Chip Sweep",
@@ -60,7 +62,8 @@
         "alt_quote": "you could not fathom what I have found in these townsfolks chinmey",
         "combination": "Resin Refinery",
         "png": "chip-sweep.jpeg",
-        "id": 3
+        "id": 3,
+        "emoji": "🐿️"
     },
     {
         "name": "Resin Refinery",
@@ -81,7 +84,8 @@
         "alt_quote": "everyone hates the resin refinery",
         "combination": "Chip Sweep",
         "png": "resin-refinery.jpeg",
-        "id": 4
+        "id": 4,
+        "emoji": "🌋"
     },
     {
         "name": "Woodcarver",
@@ -103,7 +107,8 @@
         "combination": "Storehouse",
         "png": "woodcarver.jpeg",
         "id": 5,
-        "open": false
+        "open": false,
+        "emoji": "🪓"
     },
     {
         "name": "Storehouse",
@@ -125,7 +130,8 @@
         "alt_quote": "its all we got",
         "combination": "Woodcarver",
         "png": "storehouse.jpeg",
-        "id": 6
+        "id": 6,
+        "emoji": "💸"
     },
     {
         "name": "Ranger",
@@ -146,7 +152,8 @@
         "alt_quote": "Do not trust me",
         "combination": "Dungeon",
         "png": "ranger.jpeg",
-        "id": 7
+        "id": 7,
+        "emoji": "🦊"
     },
     {
         "name": "Dungeon",
@@ -167,7 +174,8 @@
         "alt_quote": "This is a for profit dungeon",
         "combination": "Ranger",
         "png": "dungeon.jpeg",
-        "id": 8
+        "id": 8,
+        "emoji": "🕋"
     },
     {
         "name": "Peddler",
@@ -188,7 +196,8 @@
         "alt_quote": "I went to the ruins for this baby",
         "combination": "Ruins",
         "png": "peddler.jpeg",
-        "id": 9
+        "id": 9,
+        "emoji": "🚵‍♀️"
     },
     {
         "name": "Ruins",
@@ -209,7 +218,8 @@
         "alt_quote": "we couldnt stop them",
         "combination": "Peddler",
         "png": "ruins.jpeg",
-        "id": 10
+        "id": 10,
+        "emoji": "☢️"
     },
     {
         "name": "Teacher",
@@ -230,7 +240,8 @@
         "alt_quote": "im a teacher and I love teaching",
         "combination": "School",
         "png": "teacher.jpeg",
-        "id": 11
+        "id": 11,
+        "emoji": "🐦‍⬛"
     },
     {
         "name": "School",
@@ -251,7 +262,8 @@
         "alt_quote": "A place for creatures to be indoctrinated",
         "combination": "Teacher",
         "png": "school.jpeg",
-        "id": 12
+        "id": 12,
+        "emoji": "👩‍🏫"
     },
     {
         "name": "Postal Pigeon you've got mail",
@@ -273,7 +285,8 @@
         "combination": "Post Office",
         "png": "postal-pigeon.jpeg",
         "id": 13,
-        "open": true
+        "open": true,
+        "emoji": "🐦"
     },
     {
         "name": "Post Office",
@@ -295,7 +308,8 @@
         "alt_quote": "The tales of the wars are all that come in",
         "combination": "Postal Pigeon",
         "png": "post-office.jpeg",
-        "id": 14
+        "id": 14,
+        "emoji": "📬"
     },
     {
         "name": "Architect",
@@ -316,7 +330,8 @@
         "alt_quote": "These farms are not up to code",
         "combination": "Crane",
         "png": "architect.jpeg",
-        "id": 15
+        "id": 15,
+        "emoji": "🦫"
     },
     {
         "name": "Crane Pog",
@@ -337,7 +352,8 @@
         "alt_quote": "Crane decider of games",
         "combination": "Architect",
         "png": "crane.jpeg",
-        "id": 16
+        "id": 16,
+        "emoji": "🏗️"
     },
     {
         "name": "Shepherd",
@@ -358,7 +374,8 @@
         "alt_quote": "I love my sheep",
         "combination": "Chapel",
         "png": "shepherd.jpeg",
-        "id": 17
+        "id": 17,
+        "emoji": "🦉"
     },
     {
         "name": "Chapel",
@@ -380,7 +397,8 @@
         "alt_quote": "the one true god will come for us",
         "combination": "Shepherd",
         "png": "chapel.jpeg",
-        "id": 18
+        "id": 18,
+        "emoji": "💒"
     },
     {
         "name": "Historian",
@@ -401,7 +419,8 @@
         "alt_quote": "the horrors of the past are happening again and no one is listening",
         "combination": "Clock Tower",
         "png": "historian.jpeg",
-        "id": 19
+        "id": 19,
+        "emoji": "🦇"
     },
     {
         "name": "Clock Tower",
@@ -422,7 +441,8 @@
         "alt_quote": "the wheel of time never stops",
         "combination": "Historian",
         "png": "clock-tower.jpeg",
-        "id": 20
+        "id": 20,
+        "emoji": "🕰️"
     },
     {
         "name": "Fool",
@@ -443,7 +463,8 @@
         "alt_quote": "That is awfuly foooolish",
         "combination": "Fairgrounds",
         "png": "fool.jpeg",
-        "id": 21
+        "id": 21,
+        "emoji": "🦨"
     },
     {
         "name": "Fairgrounds",
@@ -464,7 +485,8 @@
         "alt_quote": "Wit will make an apearence",
         "combination": "Fool",
         "png": "fairgrounds.jpeg",
-        "id": 22
+        "id": 22,
+        "emoji": "🎡"
     },
     {
         "name": "Wanderer",
@@ -485,7 +507,8 @@
         "alt_quote": "You wish I was the only thing outside the walls",
         "combination": "Lookout",
         "png": "wanderer.jpeg",
-        "id": 23
+        "id": 23,
+        "emoji": "🦎"
     },
     {
         "name": "Lookout",
@@ -508,7 +531,8 @@
         "combination": "Wanderer",
         "png": "lookout.jpeg",
         "id": 24,
-        "open": false
+        "open": false,
+        "emoji": "🗽"
     },
     {
         "name": "Undertaker",
@@ -529,7 +553,8 @@
         "alt_quote": "sometimes they dont stay dead",
         "combination": "Cemetery",
         "png": "undertaker.jpeg",
-        "id": 25
+        "id": 25,
+        "emoji": "🪲"
     },
     {
         "name": "Cemetery",
@@ -551,7 +576,8 @@
         "alt_quote": "we all end up here one way or another",
         "combination": "Undertaker",
         "png": "cemetery.jpeg",
-        "id": 26
+        "id": 26,
+        "emoji": "⚰️"
     },
     {
         "name": "Innkeeper",
@@ -572,7 +598,8 @@
         "alt_quote": "I am the only thing protecting these poor inocent creatures from the outsiders",
         "combination": "Inn",
         "png": "innkeeper.jpeg",
-        "id": 27
+        "id": 27,
+        "emoji": "🦡"
     },
     {
         "name": "Inn go have a drink",
@@ -594,7 +621,8 @@
         "alt_quote": "I like it its cozy",
         "combination": "Innkeeper",
         "png": "inn.jpeg",
-        "id": 28
+        "id": 28,
+        "emoji": "🏩"
     },
     {
         "name": "Miner Mole",
@@ -615,7 +643,8 @@
         "alt_quote": "Dont look at the tunnels",
         "combination": "Mine",
         "png": "miner-mole.jpeg",
-        "id": 29
+        "id": 29,
+        "emoji": "⛏️"
     },
     {
         "name": "Mine",
@@ -636,7 +665,8 @@
         "alt_quote": "dont talk to me about the cannary",
         "combination": "Miner Mole",
         "png": "mine.jpeg",
-        "id": 30
+        "id": 30,
+        "emoji": "🗿"
     },
     {
         "name": "Shopkeeper",
@@ -657,7 +687,8 @@
         "alt_quote": "The people need to eat and i will make them",
         "combination": "General Store",
         "png": "shopkeeper.jpeg",
-        "id": 31
+        "id": 31,
+        "emoji": "🐰"
     },
     {
         "name": "General Store",
@@ -678,7 +709,8 @@
         "alt_quote": "Cash is King",
         "combination": "Shopkeeper",
         "png": "general-store.jpeg",
-        "id": 32
+        "id": 32,
+        "emoji": "🛒"
     },
     {
         "name": "My Queen",
@@ -700,7 +732,8 @@
         "alt_quote": "Queen me",
         "combination": "Palace",
         "png": "queen.jpeg",
-        "id": 33
+        "id": 33,
+        "emoji": "🐹"
     },
     {
         "name": "Palace",
@@ -721,7 +754,8 @@
         "alt_quote": "Dont look in the basement",
         "combination": "Queen",
         "png": "palace.jpeg",
-        "id": 34
+        "id": 34,
+        "emoji": "🕌"
     },
     {
         "name": "King",
@@ -742,7 +776,8 @@
         "alt_quote": "The eye of sauron watches us all",
         "combination": "Castle",
         "png": "king.jpeg",
-        "id": 35
+        "id": 35,
+        "emoji": "🐭"
     },
     {
         "name": "Castle",
@@ -763,7 +798,8 @@
         "alt_quote": "The only defence we have",
         "combination": "King",
         "png": "castle.jpeg",
-        "id": 36
+        "id": 36,
+        "emoji": "🏰"
     },
     {
         "name": "You have been Judged",
@@ -784,7 +820,8 @@
         "alt_quote": "I can be bribed",
         "combination": "Courthouse",
         "png": "judge.jpeg",
-        "id": 37
+        "id": 37,
+        "emoji": "👩‍⚖️"
     },
     {
         "name": "Courthouse",
@@ -805,7 +842,8 @@
         "alt_quote": "The letter of the law is a little loosy goosey",
         "combination": "Judge",
         "png": "courthouse.jpeg",
-        "id": 38
+        "id": 38,
+        "emoji": "⚖️"
     },
     {
         "name": "Bard",
@@ -826,7 +864,8 @@
         "alt_quote": "All my tales are true",
         "combination": "Theater",
         "png": "bard.jpeg",
-        "id": 39
+        "id": 39,
+        "emoji": "🎷"
     },
     {
         "name": "Theater",
@@ -847,7 +886,8 @@
         "alt_quote": "The nose will no longer be playing here",
         "combination": "Bard",
         "png": "theater.jpeg",
-        "id": 40
+        "id": 40,
+        "emoji": "🎭"
     },
     {
         "name": "Doctor",
@@ -868,7 +908,8 @@
         "alt_quote": "I eat berries not apples",
         "combination": "University",
         "png": "doctor.jpeg",
-        "id": 41
+        "id": 41,
+        "emoji": "🧬"
     },
     {
         "name": "University",
@@ -891,7 +932,8 @@
         "combination": "Doctor",
         "png": "university.jpeg",
         "id": 42,
-        "open": false
+        "open": false,
+        "emoji": "🎓"
     },
     {
         "name": "MonkaL",
@@ -912,7 +954,8 @@
         "alt_quote": "...............................boo",
         "combination": "Monastery",
         "png": "monk.jpeg",
-        "id": 43
+        "id": 43,
+        "emoji": "🙈"
     },
     {
         "name": "Monastery",
@@ -934,7 +977,8 @@
         "alt_quote": "we can give you new worries",
         "combination": "Monk",
         "png": "monastery.jpeg",
-        "id": 44
+        "id": 44,
+        "emoji": "🙏"
     },
     {
         "name": "Farm",
@@ -956,7 +1000,8 @@
         "combination": "Husband",
         "combination2": "Wife",
         "png": "farm.jpeg",
-        "id": 45
+        "id": 45,
+        "emoji": "🌾"
     },
     {
         "name": "Harvester/Husband",
@@ -977,7 +1022,8 @@
         "alt_quote": "We are in crippling debt and this berry will have to pay off the mortgage",
         "combination": "Farm",
         "png": "husband.jpeg",
-        "id": 46
+        "id": 46,
+        "emoji": "🤵‍♂️"
     },
     {
         "name": "Gatherer/Wife",
@@ -998,7 +1044,8 @@
         "alt_quote": "some call me a gatherer some call me a wife",
         "combination": "Farm",
         "png": "wife.jpeg",
-        "id": 47
+        "id": 47,
+        "emoji": "👰‍♀️"
     },
     {
         "name": "EVERTREE",
@@ -1019,6 +1066,7 @@
         "alt_quote": "I hope nobody finds the unobtainium deposits",
         "combination": "Any",
         "png": "ever-tree.jpeg",
-        "id": 48
+        "id": 48,
+        "emoji": "🌳"
     }
 ]
